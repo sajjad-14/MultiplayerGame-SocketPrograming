@@ -30,6 +30,8 @@ python client.py
 
 3.Follow the on-screen instructions to play Tic Tac Toe with another connected client.
 
+(Note : replace it with required ip address and port number)
+
 # Understanding Networking Concepts
 This project serves as an educational resource for learning networking concepts through practical programming. By exploring the codebase and observing the communication between the server and clients, users can gain insights into socket programming, client-server architecture, and understanding ping within a networked environment.
 
