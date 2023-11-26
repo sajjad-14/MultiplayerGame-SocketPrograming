@@ -18,7 +18,7 @@ Python installed on your system (preferably Python 3.x).
 # Installation
 1.Clone this repository to your local machine using:
 git clone 
-Navigate to the project directory:
+Navigate to the project directory: https://github.com/sajjad-14/MultiplayerGame-SocketPrograming.git
 
 
 # Usage
